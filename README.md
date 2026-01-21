@@ -209,7 +209,7 @@ jupyter notebook "funnel-drop.ipynb"
 
 * 🔗 **LinkedIn:** [View My Profile](https://www.linkedin.com/in/subhash-kumar-782513257/)
 * 📂 **Dataset:** [Funnel Simulation Dataset on Kaggle](https://www.kaggle.com/datasets/sufya6/e-commerce-customer-journey-click-to-conversion)
-* 💻 **GitHub Repository:** [Funnel Drop Analysis](https://github.com/analytics-ak/funnel-drop-analysis/)
+* 💻 **GitHub Repository:** [Funnel Drop Analysis](https://github.com/Subhashdrx2002/funnel-drop-analysis)
 * 📘 **Notebook:** [funnel-drop.ipynb](https://github.com/analytics-ak/funnel-drop-analysis/blob/main/funnel-drop.ipynb)
 
 <br>
